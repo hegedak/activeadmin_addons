@@ -19,7 +19,7 @@ var initializer = function() {
     function setupSelect2(select) {
       var selectConfig = {
         placeholder: '',
-        width: calc(70% - 22px),
+        width: 'calc(70% - 22px)',
         allowClear: true,
       };
 
